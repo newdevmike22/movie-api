@@ -1,18 +1,23 @@
-# React + Vite
+IMDB-MOVIE-APP 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and mobile-friendly movie search application built with React, Tailwind CSS, and React Icons. This app connects to the IMDb API to provide real-time movie search results and details.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search Movies – Quickly find movies by title using the IMDb API.
 
-## React Compiler
+📱 Fully Responsive – Optimized for mobile, tablet, and desktop screens.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+🎨 Modern UI – Clean and interactive interface built with Tailwind CSS.
 
-Note: This will impact Vite dev & build performances.
+🎭 Movie Details – View key information about movies, including title, year, rating, and poster images.
 
-## Expanding the ESLint configuration
+Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React – Component-based front-end library.
+
+Tailwind CSS – Utility-first CSS framework for styling.
+
+React Icons – Icon library for modern UI elements.
+
+IMDb API – Fetches real-time movie data.
