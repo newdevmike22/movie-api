@@ -1,4 +1,4 @@
-IMDB-movie-app 🎬
+IMDB-MOVIE-APP 🎬
 
 A responsive and mobile-friendly movie search application built with React, Tailwind CSS, and React Icons. This app connects to the IMDb API to provide real-time movie search results and details.
 
