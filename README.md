@@ -21,3 +21,6 @@ Tailwind CSS – Utility-first CSS framework for styling.
 React Icons – Icon library for modern UI elements.
 
 IMDb API – Fetches real-time movie data.
+
+DEMO
+https://mikes-imdb-movie-app.netlify.app/
